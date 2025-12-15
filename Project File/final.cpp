@@ -491,7 +491,7 @@ public:
             cout << "----------------------------------------\n";
             cout << "1. Browse All Products (By Rating)\n";
             cout << "2. Filter by Category\n";
-            cout << "3. Search by Name\n"; // --- NEW OPERATION ---
+            cout << "3. Search by Name\n"; 
             cout << "4. Add Product to Cart\n";
             cout << "5. View Cart\n";
             cout << "6. Undo Last Item (Remove from Cart)\n";
@@ -515,7 +515,6 @@ public:
                 else displayProductTable(filtered);
                 pause();
             }
-            // --- NEW OPERATION IMPLEMENTATION ---
             else if (choice == 3) {
                 clearScreen();
                 string searchName;
@@ -692,4 +691,5 @@ int main() {
     Marketplace system;
     system.run();
     return 0;
+
 }
