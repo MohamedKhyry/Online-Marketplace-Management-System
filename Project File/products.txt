@@ -1,0 +1,31 @@
+1|Samsung Galaxy A14|4500|Electronics|20|1|18|4
+2|HP Laptop 15|18000|Electronics|6|2|29|6
+3|Bluetooth Speaker|600|Accessories|50|3|12|3
+4|Wireless Mouse|250|Accessories|40|4|9|3
+5|Mechanical Keyboard|900|Accessories|30|5|15|4
+6|LG Monitor 24 Inch|4200|Electronics|15|6|20|5
+7|Smart Watch|1500|Wearables|25|7|14|4
+8|Power Bank 20000mAh|800|Accessories|35|8|10|3
+9|SSD 512GB|3200|Storage|20|9|22|5
+10|USB Flash 64GB|350|Storage|60|10|8|3
+11|Web Camera HD|700|Electronics|18|11|6|2
+12|USB Microphone|1200|Audio|12|12|16|4
+13|Headphones|1100|Audio|22|13|13|3
+14|WiFi Router|1700|Networking|14|14|17|4
+15|HP Printer|3900|Office|8|15|19|5
+16|Document Scanner|2800|Office|6|16|7|2
+17|Drawing Tablet|2100|Design|9|17|11|3
+18|HDMI Cable|150|Accessories|100|18|5|2
+19|GTX 1660 Graphics Card|9500|Electronics|5|19|23|5
+20|Office Chair|2600|Furniture|10|20|18|4
+21|Computer Desk|4800|Furniture|7|21|20|5
+22|Laptop Cooling Pad|500|Accessories|30|22|6|2
+23|Memory Card 128GB|650|Storage|40|23|9|3
+24|Car Speaker|900|Audio|15|24|12|3
+25|UPS Power Backup|3500|Power|6|25|16|4
+26|Arabic Keyboard|300|Accessories|45|26|8|3
+27|Wireless Charger|700|Accessories|25|27|10|3
+28|External Hard Drive 1TB|4200|Storage|12|28|21|5
+29|Smart TV 43 Inch|12500|Electronics|6|29|24|5
+30|Air Fryer|5200|HomeAppliances|9|30|18|4
+31|OPPO RENO3|200|Electronics|4|32|5|1
