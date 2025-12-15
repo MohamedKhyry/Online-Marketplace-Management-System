@@ -28,5 +28,4 @@
 28|Ziad Helmy|ziad28@sellers.com
 29|Emad Youssef|emad29@sellers.com
 30|Hassan Sherif|hassan30@sellers.com
-31|Mohamed Khairy|mhmd@selelr.com
-32|Mohamed Khairy|mhmd@seller.com
+31|Mohamed Khairy|mhmd@seller.com
