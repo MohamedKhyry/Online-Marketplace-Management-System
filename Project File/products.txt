@@ -28,4 +28,5 @@
 28|External Hard Drive 1TB|4200|Storage|12|28|21|5
 29|Smart TV 43 Inch|12500|Electronics|6|29|24|5
 30|Air Fryer|5200|HomeAppliances|9|30|18|4
-31|OPPO RENO3|200|Electronics|4|32|5|1
+31|OPPO RENO3|200|Electronics|4|31|5|1
+
