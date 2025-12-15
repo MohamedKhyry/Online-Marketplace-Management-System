@@ -559,10 +559,35 @@ public:
                 viewCart();
             }
             else if (choice == 6) {
-                // Undo Logic: Pop from Stack
+
+                stack<CartItem> temp;
+                bool removed = false;                    
+                
                 if(!c->cartStack.empty()) {
-                    cout << "\n[REMOVED] " << c->cartStack.top().product.name << " removed from cart.\n";
-                    c->cartStack.pop();
+                    int productId;
+                    cout << "\nEnter Item Id to remove: ";
+                    cin >>productId;
+
+                    while (!c->cartStack.empty()) {
+                        if (c->cartStack.top().product.id == productId && !removed) {
+                            c->cartStack.pop();   // remove target
+                            removed = true;
+                            break;
+                        } else {
+                            temp.push(c->cartStack.top());
+                            c->cartStack.pop();
+                        }
+                    }
+                    // Restore items
+                    while (!temp.empty()) {
+                        c->cartStack.push(temp.top());
+                        temp.pop();
+                    }
+                    if (!removed)
+                        cout << "[INFO] Item not found in cart.\n";
+                    else 
+                        cout << "[INFO] Item Removed from the cart.\n";
+
                     saveData();
                 } else {
                     cout << "\n[INFO] Cart is already empty.\n";
@@ -693,3 +718,4 @@ int main() {
     return 0;
 
 }
+
